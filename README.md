@@ -22,3 +22,5 @@ Meu nome é Jéssica Medeiros Poçarli, mas pode me chamar de Jess. Sou **Desenv
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,sass,styledcomponents,tailwind,materialui,figma,nodejs,postgres,mysql,php)](https://skillicons.dev)
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamedeirosp&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+
+![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=jessicamedeirosp&theme=onedark&margin-w=4)
