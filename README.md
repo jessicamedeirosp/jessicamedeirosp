@@ -17,7 +17,7 @@ Meu nome é Jéssica Medeiros Poçarli, mas pode me chamar de Jess. Sou **Desenv
   <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
 </a>
 ### Cargos:
-- Instrutora de Full Stack - Cubos Academy (
+- Instrutora de Full Stack - Cubos Academy 
 - Desenvolvedora Front End - B8One
 - Desenvolvedora Front End - Agência 2b digital
 - Desenvolvedora FullStack - KPlay (HinodeLabs)
