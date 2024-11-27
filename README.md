@@ -17,20 +17,20 @@ Meu nome é Jéssica Medeiros Poçarli, mas pode me chamar de Jess. Sou **Desenv
   <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
 </a>
 ### Cargos:
-- Instrutora de Full Stack - Cubos Academy 
+- Instrutora e Desenvolvedora de Full Stack - Cubos Academy 
 - Desenvolvedora Front End - B8One
 - Desenvolvedora Front End - Agência 2b digital
 - Desenvolvedora FullStack - KPlay (HinodeLabs)
 
 ### Formações:
-- Segurança da Informação - Fatec Ourinhos 
-- Técnico em Informática - Etec Waldir Duron Junior 
+- Pós em Desenvolvimento Web Full Stack - Anhanguera (2024 - 2025)
+- Pós em Inteligência Artificial e Machine Learning - Anhanguera (2024 - 2025)
+- Segurança da Informação - Fatec Ourinhos (2015 - 2018)
+- Técnico em Informática - Etec Waldir Duron Junior (2011 - 2013)
+- Inglês Intermediário - Fluency Academy (2024 - 2025)
   
-### Já trabalhei com:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,sass,figma,nodejs,postgres,jest)](https://skillicons.dev)
-
-### Estou estudando:
-[![My Skills](https://skillicons.dev/icons?i=jest,vitest,cypress,angular)](https://skillicons.dev)
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,sass,figma,nodejs,postgres,jest,cypress,angular,php,nest,docker,redux,vue,tailwind)](https://skillicons.dev)
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamedeirosp&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
